@@ -1,0 +1,4 @@
+C:\Users\AMBIENTE_202\Documents\ADSI\Jesus_David\Ejercicios\Ejercicio switch\Ejercicio switch\bin\Debug\Ejercicio switch.exe.config
+C:\Users\AMBIENTE_202\Documents\ADSI\Jesus_David\Ejercicios\Ejercicio switch\Ejercicio switch\obj\Debug\Ejercicio switch.csprojResolveAssemblyReference.cache
+F:\Ejercicio switch\Ejercicio switch\bin\Debug\Ejercicio switch.exe.config
+F:\Ejercicio switch\Ejercicio switch\obj\Debug\Ejercicio switch.csprojResolveAssemblyReference.cache

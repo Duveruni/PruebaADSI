@@ -1,0 +1,9 @@
+C:\Users\AMBIENTE_202\Documents\ADSI\Jesus_David\Ejercicios\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+C:\Users\AMBIENTE_202\Documents\ADSI\Jesus_David\Ejercicios\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+C:\Users\AMBIENTE_202\Documents\ADSI\Jesus_David\Ejercicios\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\Users\AMBIENTE_202\Documents\ADSI\Jesus_David\Ejercicios\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csprojResolveAssemblyReference.cache
+C:\Users\AMBIENTE_202\Documents\ADSI\Jesus_David\Ejercicios\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+C:\Users\AMBIENTE_202\Documents\ADSI\Jesus_David\Ejercicios\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb
+G:\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+G:\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+G:\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb

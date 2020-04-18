@@ -1,0 +1,5 @@
+C:\Users\AMBIENTE_202\Documents\ADSI\Jesus_David\Ejercicios\RespuestaUsuario\RespuestaUsuario\bin\Debug\RespuestaUsuario.exe.config
+C:\Users\AMBIENTE_202\Documents\ADSI\Jesus_David\Ejercicios\RespuestaUsuario\RespuestaUsuario\bin\Debug\RespuestaUsuario.exe
+C:\Users\AMBIENTE_202\Documents\ADSI\Jesus_David\Ejercicios\RespuestaUsuario\RespuestaUsuario\bin\Debug\RespuestaUsuario.pdb
+C:\Users\AMBIENTE_202\Documents\ADSI\Jesus_David\Ejercicios\RespuestaUsuario\RespuestaUsuario\obj\Debug\RespuestaUsuario.exe
+C:\Users\AMBIENTE_202\Documents\ADSI\Jesus_David\Ejercicios\RespuestaUsuario\RespuestaUsuario\obj\Debug\RespuestaUsuario.pdb
